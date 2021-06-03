@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a false and scandalous pamphlet, entituled, The case of the Burrough of New-Windsor, with relation to the election of their burgesses: by an impartial hand, altogether unconcerned in the election; yet present, and a due observer of all the proceedings thereat.</title>
+            <author>Impartial hand.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17127</idno><idno type="EEBO-CITATION">99886706</idno>
+  <idno type="VID">187051</idno>
+  <idno type="EEBO-PROQUEST">2240899837</idno>
+  
+            <idno type="STC">Wing A3304C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 8122.i.1[31*]</idno>
+            <idno type="STC">ESTC R226442</idno>
+            <idno type="PROQUEST">ocm99886706</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886706e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17127)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187051)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:2[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a false and scandalous pamphlet, entituled, The case of the Burrough of New-Windsor, with relation to the election of their burgesses: by an impartial hand, altogether unconcerned in the election; yet present, and a due observer of all the proceedings thereat.</title>
+                  <author>Impartial hand.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Elections --  England --  Berkshire --  Early works to 1800.</term>
+               <term type="geographic_name">Windsor (Berkshire) --  Politics and government --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb facs="tcp:187051:1"/>
+            <head>An Answer to a false and scandalous Pamphlet, Entituled, <hi>The Case of the Burrough of New-Windsor,</hi> with Relation to the Election of their Burgesses: by an impartial hand, al<g ref="char:EOLhyphen"/>together unconcerned in the Election; yet present, and a due Observer of all the Proceedings thereat.</head>
+            <p>THE Author of the said Pamphlet wanting wherewithal to support his bad Cause, makes use of most notorious falsities of his own Romantick Invention, and disguises the truth, which will be understood by the following Account.</p>
+            <p>
+               <hi>New-Windsor</hi> was made a free Burrough in the fifth year of <hi>Edward</hi> the First by Charter, wherein it is said, <hi>Quod probi homines ejusdem villae sint Libri Burgenses,</hi> &amp;c. So that it is granted by all hands, that the Inhabitants in general have the Right of Election.</p>
+            <p>The 28th of <hi>August</hi> last was the day of Election, when Mr. <hi>Carey,</hi> Mr. <hi>Powney,</hi> Mr. <hi>Winwood,</hi> and Mr. <hi>Starkey</hi> stood to be Burgesses; the Precept being read, and Proclamation made, the Poll was demanded, and each Competitor made choice of his own Clerk to take the Counter-Poll, who had free liberty to make what Observations or Querys they thought fit, upon any one that offered himself to Poll, which Querys it was agreed should be afterwards examined by the Mayor, Aldermen, Bay<g ref="char:EOLhyphen"/>liffs and Burgesses, who were the proper Judges of the Poll.</p>
+            <p>At the taking of the Poll, it is most notoriously known, and by the Poll-Book may be plainly made appear, that Mr. <hi>Win<g ref="char:EOLhyphen"/>wood</hi> and Mr. <hi>Starkey</hi> polled all manner of persons they could prevail with to give their Votes for them; and caused Querys to be put on the Names of those very men who themselves had solicited to be for them (giving their Voices for <hi>Carey</hi> or <hi>Powney,</hi> or either of them.)</p>
+            <p>But that at any time during the Poll, the Majority of Voices rested with <hi>Winwood</hi> and <hi>Starkey,</hi> is so untrue, that Mr. <hi>Starkey</hi> did in the hearing of several credible Witnesses, confess Mr. <hi>Powney</hi> was certainly chosen.</p>
+            <p>The Poll lasting all the 28th, and till Noon on the 29th, was then closed, in taking whereof, all the fairness and indiffer<g ref="char:EOLhyphen"/>ency in the world, was shewen by the Mayor and under-Steward to all parties; when the Poll was closed, Mr. <hi>Starkey</hi> made some general exceptions; and that done, he immediately departed the Court, and refused to stay to hear the answer given thereunto; which answer was to the full satisfaction of the Judges of the Poll, and of all the Electors; and Mr. <hi>Winwood</hi> and his Friends finding he had lost it, stood only upon Mr. <hi>Starkey's</hi> exceptions, and withdrew. Nevertheless, to shew how fair the Mayor and Bayliffs were, they adjourned the Court from eleven in the Morning, till three in the afternoon, to give further liberty of making exceptions; then the Court being met, and the Inhabitants demanding who were their Burgesses, the Mayor and Bayliffs proceeded to Number the Poll, on which the Account stands thus:
+<list>
+                  <item>Mr. <hi>Powney</hi> had 446 Voices.</item>
+                  <item>Mr. <hi>Cary</hi> 356 Voices.</item>
+                  <item>Mr. <hi>Starkey</hi> 235 Voices.</item>
+                  <item>Mr. <hi>Winwood</hi> 207 Voices.</item>
+               </list>
+            </p>
+            <p>From <hi>Friday</hi> in the Morning the Court was adjourned till <hi>Monday</hi> nine a Clock, when neither Mr. <hi>Winwood,</hi> nor Mr. <hi>Starkey,</hi> nor any for them appearing, the Court again adjourned till three in the Afternoon, when Mr. <hi>Cary,</hi> and Mr. <hi>Powney</hi> appeared to make good their Exceptions, and to vindicate the Legality of the Voices on their Poll, (and no body offering to do the like on the others) were proclaimed duly Elected, and returned accordingly.</p>
+            <p>It being notorious, that even allowing all the Querys and Objections that could possibly be made, they were notwithstanding duly Elected; of which Mr. <hi>Winwood</hi> and Mr. <hi>Starkey</hi> were so well satisfied, that they never appeared in the Court after <hi>Fri<g ref="char:EOLhyphen"/>day</hi> Morning.</p>
+            <p>And as to the Polling the Kings Servants, I hope their being so, shall not make them uncapable of being Inhabitants.</p>
+            <p>And whereas the Author of the said Pamphlet, after telling a ridiculous Story of the Mayors being threatned to be killed, in case he returned not Mr. <hi>Cary</hi> and Mr. <hi>Powney,</hi> and speaks of such undue practises, which a Loyal Subject would not ven<g ref="char:EOLhyphen"/>ture to mention; it must needs be meant of his good friend Mr. <hi>Starkey,</hi> whose practises have been very observable, <hi>viz.</hi> His being very industrious to run into peoples debts, and then swearing Damn him if they would not Vote for him, he would never pay them; and in this he was helped by accident of having some of the Army-money in his hands to discharge quarters.</p>
+            <p>His having sold a House or two lately, and received the money, refused to make a good assurance of the Title, till he made the Purchasers swear they would Vote for him.</p>
+            <p>Besides many other undue and illegal Contrivances, which will be made appear in time convenient.</p>
+            <p>Though 'tis to be wondered at, why Mr. <hi>Starkey</hi> should take so much pains in getting Votes, when he hath often been heard to say, That if he had but six Voices, he would put out Mr. <hi>Cary,</hi> and Mr. <hi>Powney,</hi> unless by being returned Burgess, he should think to fortifie himself against the fears and sweats the Apprition of a Bayliff always puts him into.</p>
+            <p>But how Mr. <hi>Winwood</hi> came to be joyned with such a Companion, is the wonder of his friends and acquaintance; and it would be more wondred at if he should continue to be led by him, his friends plainly observing that he has no pretence.</p>
+            <p>I had not troubled my self with this Relation, but that truth exacts it from me.</p>
+            <p>I do a little admire that the Scribler (if he be a friend to <hi>Starkey</hi>) should offer to make the least Reflection on any body, knowing that <hi>Starkey</hi> is the only man in the world, most lyable to be exposed; but he and his Principles are so well known, more need not be said.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
